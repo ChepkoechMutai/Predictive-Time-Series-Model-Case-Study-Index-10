@@ -35,8 +35,8 @@ Deploy the developed model online to provide easy access to our target partners,
 
 **Notebook Structure**
 
-# Reading the Data
-# Data Wrangling
+* Reading the Data
+* Data Wrangling
 # Exploratory Data Analysis
 # Data Preprocessing
 # Modelling
