@@ -46,6 +46,7 @@ Deploy the developed model online to provide easy access to our target partners,
 
 
 **Data Understanding**
+
 The data used in this project was downloaded from here and CBK website.
 
 The NSE 20 dataset contains 4531 rows and 6 columns with the following information:
